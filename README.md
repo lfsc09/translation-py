@@ -4,7 +4,7 @@
 
 Creating a virtual environment named `.translation-env`
 
-```python
+```bash
 python -m venv .translation-env
 .\.translation-env\Scripts\activate
 pip install -r requirements.txt
